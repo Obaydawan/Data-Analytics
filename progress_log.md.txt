@@ -1,8 +1,10 @@
 # Data Analytics Learning Journey
 Started: June 2026
 
-## Day 1 — [today's date]
-- Learned:
-- Time spent:
-- Resource:
-- Tomorrow:
+## Day 1 — 3 June 2026
+- Learned: Pivot tables in Excel
+- Time spent: 2 hrs
+- Resource: Alex The Analyst Excel Tutorial
+- What I built: I built new tables with formulas
+- What was hard: remembring formulas
+- Tomorrow: practicing
