@@ -8,3 +8,9 @@ Started: June 2026
 - What I built: I built new tables with formulas
 - What was hard: remembring formulas
 - Tomorrow: practicing
+ Day 2 — 3 June 2026
+- Learned: XLOOKUP in Excel
+- Time spent: [hours]
+- Resource: [tutorial name]
+- Key formula: =XLOOKUP(lookup, array, return, "Not Found")
+- XLOOKUP beats VLOOKUP because: looks both directions
