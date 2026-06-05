@@ -38,6 +38,12 @@ by September 2027.
 
 ---
 
+  ## Daily Excel AND Sql
+- [x] Day 1 — Excel Pivot Tables ✅
+- [x] Day 2 — Excel XLOOKUP ✅
+- [x] Day 3 — Excel [today's topic] + SQL [today's topic] ✅
+- [ ] Day 4 — [tomorrow's topics]
+
 ## 📁 Projects
 
 ### 1. FloodSense Pakistan (Final Year Project)
