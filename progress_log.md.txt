@@ -23,3 +23,11 @@
 - Key thing learned: Practice Makes Perfect
 - What was hard: TO Remember what formula does what
   Tomorrow: MORE SQL AND EXCEL
+
+ Day 4 — 6 June 2026
+- Excel: Practiced Conditional Formatting
+- SQL: Practiced FROM, WHERE Clauses
+- Time spent: 2
+- Resources: Alex The Analyst
+- Key thing learned: Excel seems funt
+- What was hard: Not much
