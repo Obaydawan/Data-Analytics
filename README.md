@@ -45,6 +45,7 @@ by September 2027.
 - [x] Day 4 — Excel Practiced + SQL From, Where Clause
 - [x] Day 5 - Skipped
 - [x] Day 6 — Excel Conditional Formatting + SQL Practice
+- [x] Day 7 _ Excel Charts + Data Cleaning
 
 ## 📁 Projects
 

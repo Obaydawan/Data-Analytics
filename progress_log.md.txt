@@ -11,23 +11,31 @@
 
  Day 2 — 3 June 2026
 - Learned: XLOOKUP in Excel
-- Time spent: 1
+- Time spent: 1hr
 - Key formula: =XLOOKUP(lookup, array, return, "Not Found")
 - XLOOKUP beats VLOOKUP because: looks both directions
 
  Day 3 — 4 June 2026
 - Excel: Practiced X and V LOOKUPS
 - SQL: Practiced queries created tables
-- Time spent: 2
+- Time spent: 2hrs
 - Resources: Alex The Analyst
 - Key thing learned: Practice Makes Perfect
 - What was hard: TO Remember what formula does what
   Tomorrow: MORE SQL AND EXCEL
 
- Day 4 — 6 June 2026
+ Day 4 — 6,7 June 2026
 - Excel: Practiced Conditional Formatting
 - SQL: Practiced FROM, WHERE Clauses
-- Time spent: 2
+- Time spent: 2hrs
 - Resources: Alex The Analyst
-- Key thing learned: Excel seems funt
+- Key thing learned: Excel seems fun
 - What was hard: Not much
+
+ Day 6 — 8 June 2026
+- Excel: Practiced Charts In Excel + Data cleaning
+- Time spent: 2 hrd
+- Resources: Alex The Analyst
+- Key thing learned: How to create charts & Clean Data
+- What was hard: To identify what needs to be clean
+
