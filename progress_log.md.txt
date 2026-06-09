@@ -34,8 +34,13 @@
 
  Day 6 — 8 June 2026
 - Excel: Practiced Charts In Excel + Data cleaning
-- Time spent: 2 hrd
+- Time spent: 2 hrs
 - Resources: Alex The Analyst
 - Key thing learned: How to create charts & Clean Data
 - What was hard: To identify what needs to be clean
 
+ Day 8 — 9 June 2026
+- Excel: Created First Excel Project Of Bike Sales
+- Time spent: 3 hrs
+- Resources: Alex The Analyst
+- Key thing learned: Creating Charts, Cleaning Data, Filtering Data, Slicing in Dasboards

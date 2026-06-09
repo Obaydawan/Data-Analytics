@@ -42,10 +42,11 @@ by September 2027.
 - [x] Day 1 — Excel Pivot Tables ✅
 - [x] Day 2 — Excel XLOOKUP ✅
 - [x] Day 3 — Excel Vlookup + SQL Installation + setup ✅
-- [x] Day 4 — Excel Practiced + SQL From, Where Clause
-- [x] Day 5 - Skipped
-- [x] Day 6 — Excel Conditional Formatting + SQL Practice
-- [x] Day 7 _ Excel Charts + Data Cleaning
+- [x] Day 4 — Excel Practiced + SQL From, Where Clause ✅
+- [x] Day 5 - Skipped 
+- [x] Day 6 — Excel Conditional Formatting + SQL Practice ✅
+- [x] Day 7 _ Excel Charts + Data Cleaning ✅
+- [x] Day 8 _ First Project in Excel Of Creating Visualization Dasboard of Bike Sales ✅
 
 ## 📁 Projects
 
