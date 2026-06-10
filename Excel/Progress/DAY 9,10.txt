@@ -1,0 +1,12 @@
+ Day 9 Excel — Pivot Tables
+Date: 10 June 2026
+Source: Alex The Analyst Excel Tutorial
+
+What I built:
+-EXCEL PROJECT
+
+What I learned:
+- I learned how to make visualizations
+
+What was hard:
+- It was hard to understand Business Problems and cleaning Data
