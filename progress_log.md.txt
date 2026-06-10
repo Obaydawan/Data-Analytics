@@ -29,7 +29,7 @@
 - SQL: Practiced FROM, WHERE Clauses
 - Time spent: 2hrs
 - Resources: Alex The Analyst
-- Key thing learned: Excel seems fun
+- Key thing learned:
 - What was hard: Not much
 
  Day 6 — 8 June 2026
@@ -44,3 +44,11 @@
 - Time spent: 3 hrs
 - Resources: Alex The Analyst
 - Key thing learned: Creating Charts, Cleaning Data, Filtering Data, Slicing in Dasboards
+
+ Day 9 — 10 June 2026
+- Excel: Practiced Conditional Formatting
+- SQL: Practiced FROM, WHERE Clauses
+- Time spent: 2hrs
+- Resources: Alex The Analyst
+- Key thing learned: 
+- What was hard: Not much
