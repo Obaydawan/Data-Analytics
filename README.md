@@ -48,7 +48,7 @@ by September 2027.
 - [x] Day 7 _ Excel Charts + Data Cleaning ✅
 - [x] Day 8 _ First Project in Excel Of Creating Visualization Dasboard of Bike Sales ✅
 - [x] Day 9 — Excel Practiced + SQL FORDER BY, GROUP BY Clause ✅
-
+- [x] Day 10 — SQL Lite FROM Luke Barousse ✅
 ## 📁 Projects
 
 ### 1. FloodSense Pakistan (Final Year Project)

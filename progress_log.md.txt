@@ -50,5 +50,12 @@
 - SQL: Practiced FROM, WHERE Clauses
 - Time spent: 2hrs
 - Resources: Alex The Analyst
-- Key thing learned: 
+- Key thing learned: Practice makes perfect
+- What was hard: Not much
+
+ Day 10 — 11 June 2026
+- SQL: Practiced SQL
+- Time spent: 1hrs
+- Resources: Luke Barousse
+- Key thing learned: SQL Lite
 - What was hard: Not much
