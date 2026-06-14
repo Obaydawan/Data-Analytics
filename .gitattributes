@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Force SQL detection
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+*.sql linguist-documentation=false
+
+# Force Python detection  
+*.py linguist-language=Python
+*.py linguist-detectable=true
+
+# Ignore everything else
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.pbix linguist-vendored
+*.xlsx linguist-vendored
