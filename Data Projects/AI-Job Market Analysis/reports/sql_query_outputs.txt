@@ -1,0 +1,130 @@
+==============================================================================
+1. Highest paying AI job titles (avg salary, rounded)
+==============================================================================
+                         job_title  avg_salary_usd  num_postings
+                 Applied Scientist        141765.0           149
+           Generative AI Developer        128335.0           136
+              AI Research Engineer        127568.0           132
+                      NLP Engineer        120229.0           129
+          Computer Vision Engineer        114625.0           152
+         Machine Learning Engineer        113940.0           116
+                    MLOps Engineer        111383.0           133
+                    Data Scientist        106862.0           145
+           AI Solutions Consultant        102100.0           140
+        Data Engineer (AI Systems)         98887.0           133
+                   Prompt Engineer         81629.0           120
+Business Intelligence Analyst (AI)         81055.0           127
+                AI Product Analyst         76895.0           124
+                 AI Ethics Analyst         75054.0           130
+                   AI Data Analyst         57056.0           134
+
+==============================================================================
+2. Average salary by experience level
+==============================================================================
+experience_level  avg_salary_usd  num_postings
+            Lead        186607.0           164
+          Senior        138211.0           444
+             Mid         98231.0           757
+           Entry         63019.0           635
+
+==============================================================================
+3. Remote vs Hybrid vs On-site: salary and demand comparison
+==============================================================================
+remote_type  avg_salary_usd  avg_applicants  num_postings
+     Remote        107049.0            48.4           760
+     Hybrid        101340.0            39.6           725
+    On-site        100035.0            28.5           515
+
+==============================================================================
+4. Top hiring regions by number of postings and average salary
+==============================================================================
+        region  num_postings  avg_salary_usd
+        Europe           746        114936.0
+ North America           498        139523.0
+    South Asia           444         41886.0
+       Oceania            88        136330.0
+   Middle East            87        102207.0
+Southeast Asia            84         96101.0
+ South America            53         67236.0
+
+==============================================================================
+5. Industry demand for AI roles
+==============================================================================
+             industry  num_postings  avg_salary_usd
+              Fintech           230        104343.0
+           E-commerce           208        100320.0
+Media & Entertainment           206        108743.0
+           Government           201        103831.0
+        Cybersecurity           201        104632.0
+        Manufacturing           197        107152.0
+           Consulting           196        103288.0
+              Telecom           194        100376.0
+           Healthcare           190         96766.0
+            Education           177        101511.0
+
+==============================================================================
+6. Monthly posting trend (seasonality of AI hiring across 2025)
+==============================================================================
+  month  num_postings
+2025-01           172
+2025-02           155
+2025-03           161
+2025-04           183
+2025-05           160
+2025-06           156
+2025-07           158
+2025-08           169
+2025-09           171
+2025-10           182
+2025-11           152
+2025-12           181
+
+==============================================================================
+7. Most in-demand AI skills (requires splitting the comma-separated column;
+==============================================================================
+                          ai_skills_required  num_postings
+                      MLOps, R, scikit-learn             3
+                        Excel, LLMs, PyTorch             3
+                         Azure ML, Docker, R             3
+                            AWS, LLMs, MLOps             3
+        Statistics, TensorFlow, scikit-learn             2
+           Statistics, Tableau, scikit-learn             2
+               SQL, TensorFlow, scikit-learn             2
+                        R, SQL, scikit-learn             2
+                      PyTorch, R, TensorFlow             2
+Prompt Engineering, TensorFlow, scikit-learn             2
+
+==============================================================================
+8. Competitiveness: average applicants per posting by experience level
+==============================================================================
+experience_level  avg_applicants  avg_salary_usd
+           Entry            62.2         62988.0
+             Mid            39.4         98123.0
+          Senior            20.4        138403.0
+            Lead            10.9        186963.0
+
+==============================================================================
+9. Best-paying job title + region combinations (top 10)
+==============================================================================
+                job_title        region  avg_salary_usd  num_postings
+        Applied Scientist North America        186174.0            46
+  Generative AI Developer       Oceania        181600.0             5
+  Generative AI Developer North America        168429.0            35
+             NLP Engineer       Oceania        164938.0             8
+     AI Research Engineer North America        162526.0            38
+             NLP Engineer North America        158578.0            32
+ Computer Vision Engineer North America        158000.0            40
+     AI Research Engineer       Oceania        156056.0             9
+Machine Learning Engineer North America        155783.0            23
+        Applied Scientist        Europe        155430.0            50
+
+==============================================================================
+10. Which source platform yields the most postings, and at what average salary?
+==============================================================================
+source_platform  num_postings  avg_salary_usd
+       LinkedIn           858        104844.0
+         Indeed           484        100971.0
+      Glassdoor           268        101084.0
+ CompanyWebsite           236        103297.0
+      AngelList           154        104237.0
+
